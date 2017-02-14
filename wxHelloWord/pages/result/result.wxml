@@ -1,0 +1,15 @@
+<view bindtap="tap_de01fdb6" class="listitemWrap" >
+    <view class="image_thumbView">
+        <navigator class="image_thumbView" hover-class="navigator-hover" url="../detail/detail">
+            <image class="image_thumb"  mode="aspectFit" src="../../source/images/item01.jpg"/>
+        </navigator>
+    </view>
+    <text class="text_description">小巧可爱的案头雅物。</text>
+    <view class="listitemInfoWrap">
+        <view class="likeinfo" >
+            <image class="likebtn" src="../../source/images/likebtn.png"/>
+            <text class="c-block likeinfo_count">22</text>
+        </view>
+        <text class="listitem_creattime">2016.10.29</text>
+    </view>
+</view>

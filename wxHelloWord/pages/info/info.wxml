@@ -1,0 +1,40 @@
+<view class="listWrap">
+    <view style="text-align:center"> {{title}} </view>
+    <view class="listItem">
+        <navigator class="listitem-navigator">
+        <image class="wx-image"  mode="aspectFill" src="../../source/images/item01.jpg" mode="aspectFill" src="../../source/images/item01.jpg" />
+            <view class="wx-view" bindtap="detailsTab">
+                <text class="c-block c-ellipse wx-text_T">小程序标准的代码</text>
+                <text class="c-block c-ellipse wx-text_L">小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码</text>
+            </view>
+        </navigator>
+        <navigator class="listitem-navigator">
+        <image class="wx-image"  mode="aspectFill" src="../../source/images/item02.jpg" mode="aspectFill" src="../../source/images/item02.jpg" />
+            <view class="wx-view">
+                <text class="c-block c-ellipse wx-text_T">小程序标准的代码</text>
+                <text class="c-block c-ellipse wx-text_L">小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码</text>
+            </view>
+        </navigator>
+        <navigator class="listitem-navigator">
+        <image class="wx-image"  mode="aspectFill" src="../../source/images/item03.jpg" mode="aspectFill" src="../../source/images/item03.jpg" />
+            <view class="wx-view">
+                <text class="c-block c-ellipse wx-text_T">小程序标准的代码</text>
+                <text class="c-block c-ellipse wx-text_L">小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码</text>
+            </view>
+        </navigator>
+        <navigator class="listitem-navigator">
+        <image class="wx-image"  mode="aspectFill" src="../../source/images/item04.jpg" mode="aspectFill" src="../../source/images/item04.jpg" />
+            <view class="wx-view">
+                <text class="c-block c-ellipse wx-text_T">小程序标准的代码</text>
+                <text class="c-block c-ellipse wx-text_L">小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码</text>
+            </view>
+        </navigator>
+        <navigator class="listitem-navigator">
+        <image class="wx-image"  mode="aspectFill" src="../../source/images/item05.jpg" mode="aspectFill" src="../../source/images/item05.jpg" />
+            <view class="wx-view">
+                <text class="c-block c-ellipse wx-text_T">小程序标准的代码</text>
+                <text class="c-block c-ellipse wx-text_L">小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码小程序标准的代码</text>
+            </view>
+        </navigator>
+    </view>
+</view>
